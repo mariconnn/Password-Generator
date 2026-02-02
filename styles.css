@@ -1,0 +1,75 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    background: #1C1C1C;
+    border: 0px none;
+    gap: 12px;
+    display: block;
+    position: relative;
+}
+
+.container {
+    background: #1F2937;
+    margin-top: 64px;
+    padding: 50px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.heading {
+    font-family: 'Karla', sans-serif;
+
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+
+}
+
+span {
+    color: #34D399;
+}
+
+.supporting-text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+    letter-spacing: 0%;
+
+}
+
+
+.generate-ps-btn {
+    width: 191px;
+    height: 42px;
+    background-color: #10B981;
+    border: inherit;
+    border-radius: 6px;
+    color: inherit;
+    padding: 9px 17px 9px 15px;
+    gap: inherit;
+
+}
+
+.password-options {
+    margin-top: 50px;
+    gap: inherit;
+}
+
+.password-option-btn {
+    background: #273549;
+    color: inherit;
+    width: 211px;
+    height: 39px;
+    border: inherit;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    gap: inherit;
+
+}
